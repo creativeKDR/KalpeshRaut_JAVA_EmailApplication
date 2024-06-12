@@ -1,0 +1,2 @@
+# KalpeshRaut_JAVA_EmailApplication
+Email application assignment
